@@ -409,6 +409,9 @@ background: var(--color-button);
 .photo-line{
     display: flex;
 }
+.photos-images{
+    width: 0;
+}
 .photos-text{ 
     margin-top: 180px;
 margin-left: 510px;
